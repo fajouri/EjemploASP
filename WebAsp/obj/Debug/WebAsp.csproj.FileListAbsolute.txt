@@ -1,0 +1,10 @@
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\bin\WebAsp.dll.config
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\bin\WebAsp.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\bin\WebAsp.pdb
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\bin\EjemploASP.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\bin\EntityFramework.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\bin\EjemploASP.pdb
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\bin\EntityFramework.xml
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\obj\Debug\WebAsp.csprojResolveAssemblyReference.cache
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\obj\Debug\WebAsp.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\WebAsp\obj\Debug\WebAsp.pdb

@@ -1,0 +1,14 @@
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EjemploASP.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EjemploASP.pdb
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EntityFramework.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EntityFramework.SqlServerCompact.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\System.Data.SqlServerCe.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EntityFramework.xml
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\bin\Debug\EntityFramework.SqlServerCompact.xml
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\obj\Debug\EjemploASP.csprojResolveAssemblyReference.cache
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\obj\Debug\EjemploASP.dll
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\obj\Debug\EjemploASP.pdb
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\obj\Debug\EjemploASP.Properties.Resources.resources
+c:\users\yfajouri\documents\visual studio 2013\Projects\EjemploASP\EjemploASP\obj\Debug\EjemploASP.csproj.GenerateResource.Cache
